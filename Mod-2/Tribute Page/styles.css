@@ -1,0 +1,40 @@
+*{
+  border:0;
+  margin:0;
+  padding:0;
+}
+#title{
+text-align:center;
+margin:15px;
+
+}
+p{
+text-align:center;
+}
+#image{
+  display:block;
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+#img-div{
+  height:200px;
+  width:100vw;
+  background:linear-gradient(45deg,gray,orangered,green);
+}
+figcaption{
+  text-align:center;
+  color:white;
+}
+#tribute-info{
+  margin-top:15px;
+  text-align:justify;
+  font-size:12px;
+}
+#tribute-link{
+  text-align:center;
+  font-weight:bold;
+}
+a{
+  text-decoration:none;
+}
